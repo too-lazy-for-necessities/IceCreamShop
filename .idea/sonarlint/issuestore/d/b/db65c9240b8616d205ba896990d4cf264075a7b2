@@ -1,0 +1,6 @@
+
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹±ŸÕ8ÂìÚî¬.
+K
+java:S1068".Remove this unused "MagnumType" private field.(Á…ï8·“ªë¬.
+q	java:S116"URename this field "MagnumType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á…ï8ñïâî¬.
